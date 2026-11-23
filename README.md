@@ -77,6 +77,8 @@ Loops and Iterations
 
 8. Write a program to print the table of a number.
 
+9. Write a program to check whether the given number is a palindrome number or not.
+
 ## Need Help?
 
 Got a doubt or need help with a question? Feel free to reach out to our Coding Club. We're happy to help!
