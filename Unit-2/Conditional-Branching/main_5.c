@@ -1,30 +1,33 @@
 #include <stdio.h>
 
 /*
-Write a program to enter marks of student and give the corresponding grade.
-Grade - A if marks are greater than or equal to 90, 
-Grade - B if they're greater than or equal to 75, 
-Grade C if they're greater than or equal to 50 and 
-the student fails if marks are less than 50. 
+While purchasing certain items, a discount of 10% is offered if the quantity 
+purchased is more than 1000. If quantity and price per item are input 
+through the keyboard, write a program to calculate the total expenses.
 */
 
-int main (){
-    int marks;
-    printf("Enter your marks out of 100%: \n");
-    scanf("%d", &marks);
+int main ()
+{
+    int quantity;
+    int price;
+    int expenses;
     
-    if(marks >= 90){
-        printf("Grade: A\n");
+    printf("Enter the price of one item: ");
+    scanf("%d", &price);
+    
+    printf("Enter the quantity: ");
+    scanf("%d", &quantity);
+    
+    if(quantity > 1000)
+    {
+        expenses = quantity * price * 0.9;
     }
-    else if(marks >= 75){
-        printf("Grade: B\n");
-    }
-    else if(marks >= 50){
-        printf("Grade: C\n");
-    }
-    else{
-        printf("Grade: FAIL\n");
+    else
+    {
+        expenses = quantity * price;
     }
     
+    printf("Your total expenses are: %d", expenses);
+        
     return 0;
 }

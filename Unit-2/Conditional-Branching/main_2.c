@@ -1,31 +1,24 @@
 #include <stdio.h>
 
 /*
-Write a program to check whether the given number is divisble by 2 and 3
+Write a program to find the greater of two numbers
 */
 
-int main()
+int main () 
 {
-    int n;
+	int A, B;
+	printf("Enter first number: ");
+	scanf("%d", &A);
 
-    printf("Enter a number: ");
-    scanf("%d", &n);
-    
-    if (n % 2 == 0)
-    {
-        if (n % 3 == 0)
-        {
-            printf("Divisible by both 2 and 3\n");
-        }
-        else
-        {
-            printf("Divisible by 2 but not by 3\n");
-        }
-    }
-    else
-    {
-        printf("Not divisible by 2\n");
-    }
+	printf("Enter second number: ");
+	scanf("%d", &B);
 
-    return 0;
+	if (A > B) {
+		printf("First number is greater than the second number\n");
+	}
+	else {
+		printf("Second number is greater than the first number\n");
+	}
+
+	return 0;
 }

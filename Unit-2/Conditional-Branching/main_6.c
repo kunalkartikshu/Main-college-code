@@ -1,24 +1,30 @@
 #include <stdio.h>
 
 /*
-Write a program to check voting eligibility by Age.
+Write a program to enter marks of student and give the corresponding grade.
+Grade - A if marks are greater than or equal to 90, 
+Grade - B if they're greater than or equal to 75, 
+Grade C if they're greater than or equal to 50 and 
+the student fails if marks are less than 50. 
 */
 
-int main ()
-{
-    int age;
-
-    printf("Enter age: ");
-    scanf("%d", &age);
-
-    if (age >= 18)
-    {
-        printf("You are eligible to vote\n");
+int main (){
+    int marks;
+    printf("Enter your marks out of 100%: \n");
+    scanf("%d", &marks);
+    
+    if(marks >= 90){
+        printf("Grade: A\n");
     }
-    else 
-    {
-        printf("You are not eligible to vote\n");
+    else if(marks >= 75){
+        printf("Grade: B\n");
     }
-
+    else if(marks >= 50){
+        printf("Grade: C\n");
+    }
+    else{
+        printf("Grade: FAIL\n");
+    }
+    
     return 0;
 }
