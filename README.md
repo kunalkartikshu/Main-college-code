@@ -98,9 +98,9 @@ Loops and Iterations
 12. Write a program to print 
 ```text
 * * * *
-   * * *
-      * *
-         *
+  * * *
+    * *
+      *
 ```
 
 13. Write a program to print
@@ -108,7 +108,7 @@ Loops and Iterations
      *
     * *
    * * *
- * * * *
+  * * * *
 ```
 ## Need Help?
 
