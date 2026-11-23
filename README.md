@@ -25,6 +25,8 @@ The repository will be updated with more topics and questions over time.
 
 6. Write a program to convert Celsius into Fahrenheit.
 
+7. Write a simple calculator program.
+
 
 ### Unit - 2
 
@@ -32,25 +34,27 @@ Conditional Branching
 
 1. Write a program to check divisibility by 5.
 
-2. Write a program to check divisibility by 2 and 3.
+2. Write a program to find the greater of two numbers
 
-2. In a company an employee is paid as under: If his basic salary is less than Rs. 1500, then HRA = 10% of basic salary and DA = 90% of basic salary. If his salary is either equal to or above Rs. 1500, then HRA = Rs. 500 and DA = 98% of basic salary. If the employee's salary is input through the keyboard write a program to find his gross salary.
+3. Write a program to check divisibility by 2 and 3.
 
-3. While purchasing certain items, a discount of 10% is offered if the quantity purchased is more than 1000. If quantity and price per item are input through the keyboard, write a program to calculate the total expenses.
+4. In a company an employee is paid as under: If his basic salary is less than Rs. 1500, then HRA = 10% of basic salary and DA = 90% of basic salary. If his salary is either equal to or above Rs. 1500, then HRA = Rs. 500 and DA = 98% of basic salary. If the employee's salary is input through the keyboard write a program to find his gross salary.
 
-4. Write a program to enter marks of student and give the corresponding grade.
+5. While purchasing certain items, a discount of 10% is offered if the quantity purchased is more than 1000. If quantity and price per item are input through the keyboard, write a program to calculate the total expenses.
+
+6. Write a program to enter marks of student and give the corresponding grade.
 Grade - A if marks are greater than or equal to 90, 
 Grade - B if they're greater than or equal to 75, 
 Grade C if they're greater than or equal to 50 and 
 the student fails if marks are less than 50. 
 
-5. Write a program to check voting eligibility by Age.
+7. Write a program to check voting eligibility by Age.
 
-6. Write a program to check eligibility for voting. Use nested if-else to print the age group of user, and ask for verification if age is more than 100 and print gender of the voter as well.
+8. Write a program to check eligibility for voting. Use nested if-else to print the age group of user, and ask for verification if age is more than 100 and print gender of the voter as well.
 
-7. Write a program to check if the given year is a leap year. 
+9. Write a program to check if the given year is a leap year. 
 
-8. Write a simple calculator program.
+10. Write a simple calculator program.
 
 
 ### Unit - 3
