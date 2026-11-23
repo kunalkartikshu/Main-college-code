@@ -1,1 +1,4 @@
+In this Info we will guide which file contain which type of code means (problem).
 
+//////////////////////////////////////////////////////////////////////////////////////////////
+Varible.c :----- In this file we initialise
