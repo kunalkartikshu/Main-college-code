@@ -81,13 +81,22 @@ Loops and Iterations
 
 10. Write a program to print
 ```text
+* * * *
+* * * *
+* * * *
+* * * *
+```
+
+
+11. Write a program to print
+```text
 *
 * *
 * * *
 * * * *
 ```
 
-11. Write a program to print|
+12. Write a program to print|
 ```text
 1
 1 2
@@ -95,7 +104,7 @@ Loops and Iterations
 1 2 3 4
 ```
 
-12. Write a program to print 
+13. Write a program to print 
 ```text
 * * * *
   * * *
@@ -103,7 +112,7 @@ Loops and Iterations
       *
 ```
 
-13. Write a program to print
+14. Write a program to print
 ```text
      *
     * *
