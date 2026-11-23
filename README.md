@@ -79,6 +79,37 @@ Loops and Iterations
 
 9. Write a program to check whether the given number is a palindrome number or not.
 
+10. Write a program to print
+```text
+*
+* *
+* * *
+* * * *
+```
+
+11. Write a program to print|
+```text
+1
+1 2
+1 2 3
+1 2 3 4
+```
+
+12. Write a program to print 
+```text
+* * * *
+   * * *
+      * *
+         *
+```
+
+13. Write a program to print
+```text
+     *
+    * *
+   * * *
+ * * * *
+```
 ## Need Help?
 
 Got a doubt or need help with a question? Feel free to reach out to our Coding Club. We're happy to help!
