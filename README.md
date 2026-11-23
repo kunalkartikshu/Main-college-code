@@ -96,7 +96,7 @@ Loops and Iterations
 * * * *
 ```
 
-12. Write a program to print|
+12. Write a program to print
 ```text
 1
 1 2
