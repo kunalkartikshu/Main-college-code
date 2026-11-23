@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*
+Write a program to print the reverse of any number.
+*/
+
 int main ()
 {
     int number;
